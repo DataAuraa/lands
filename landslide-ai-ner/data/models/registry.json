@@ -1,0 +1,7 @@
+{
+  "active_models": {
+    "susceptibility": "v1",
+    "risk": "v1"
+  },
+  "models": []
+}
